@@ -9,7 +9,7 @@
  * @patreon https://www.patreon.com/haco
  * @website https://dashpite.xyz
  * @source https://github.com/Dashpite/BetterDiscord/blob/main/Plugins/DashNotify/DashNotify.plugin.js
- * @updateUrl https://github.com/Dashpite/BetterDiscord/blob/main/Plugins/DashNotify/DashNotify.plugin.js
+ * @updateUrl https://dashpite.github.io/BetterDiscord/Plugins/DashNotify/DashNotify.plugin.js
  */
 
 module.exports = (_ => {
