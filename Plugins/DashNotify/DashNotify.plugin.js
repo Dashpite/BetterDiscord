@@ -8,8 +8,8 @@
  * @donate https://paypal.me/tadejhaco
  * @patreon https://www.patreon.com/haco
  * @website https://dashpite.xyz
- * @source https://github.com/Dashpite/BD/Plugins/DashNotify/DashNotify.plugin.js
- * @updateUrl https://dashpite.github.io/BD/Plugins/DashNotify/DashNotify.plugin.js
+ * @source https://github.com/Dashpite/BetterDiscord/blob/main/Plugins/DashNotify/DashNotify.plugin.js
+ * @updateUrl https://github.com/Dashpite/BetterDiscord/blob/main/Plugins/DashNotify/DashNotify.plugin.js
  */
 
 module.exports = (_ => {
